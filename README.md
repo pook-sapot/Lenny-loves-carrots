@@ -1,4 +1,6 @@
-# Test
+# Lenny loves carrots
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/heyzel/pen/VYZwVrv](https://codepen.io/heyzel/pen/VYZwVrv).
+A Pen created on CodePen.io. 
+Copyright (c) 2024 by Ryan Mulligan (https://codepen.io/hexagoncircle/pen/wvOPmGO)
+Licensed under the MIT License: https://opensource.org/licenses/MIT
 
