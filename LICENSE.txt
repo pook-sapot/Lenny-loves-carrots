@@ -1,5 +1,8 @@
 The MIT License (MIT)
 
+Copyright (c) 2024 by Ryan Mulligan (https://codepen.io/hexagoncircle/pen/wvOPmGO)
+Licensed under the MIT License: https://opensource.org/licenses/MIT
+
 Copyright (c) 2024 heyzel (https://codepen.io/heyzel/pen/VYZwVrv)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
